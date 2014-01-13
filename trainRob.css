@@ -1,0 +1,48 @@
+/* this is trainRob.css which modifies all pages for the "the great train robbery" reboot */
+
+#viewPort
+{
+background-color: #5E5E5E;
+}
+
+div div
+{
+background-color: #BABABA;
+}
+
+#map
+{
+float: left;
+width: 15%;
+height: 2500px;
+margin: 7px;
+}
+
+#main
+{
+float: right;
+height: 2500px;
+width: 81%;
+margin: 7px;
+}
+
+#footer
+{
+margin: 7px;
+height: 40px;
+clear: both;
+}
+
+
+#majortext
+{
+
+}
+
+.linkFoot
+{
+margin: auto;
+text-decoration: none;
+}
+
+
