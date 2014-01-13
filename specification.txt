@@ -1,0 +1,20 @@
+	
+Landing Page
+	attention grabber
+	short summary
+	list of C list actors
+	call to read more
+
+Plot Page
+	longer plot summary
+	screencaps
+
+Actor Page
+	Bios on actors in the film
+	2 - 3 actors
+	Images of each
+	
+Social Page
+	invite users to like on Facebook
+	follow on Twitter
+	or, if desperate, +1 on Google+\
