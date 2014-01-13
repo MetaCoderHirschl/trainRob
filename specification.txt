@@ -1,5 +1,5 @@
 	
-Landing Page
+Landing Page  (Jordan me!)
 	attention grabber
 	short summary
 	list of C list actors
@@ -17,4 +17,4 @@ Actor Page
 Social Page
 	invite users to like on Facebook
 	follow on Twitter
-	or, if desperate, +1 on Google+\
+	or, if desperate, +1 on Google+
