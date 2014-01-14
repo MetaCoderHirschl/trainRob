@@ -3,7 +3,7 @@
 /*big division in which the other three divisions are contained*/
 #viewPort
 {
-height:800px;
+height:1500px;
 float:none;
 width:100%;
 }
@@ -11,8 +11,8 @@ width:100%;
 /*content window division*/
 #main
 {
-background-color:#FF0000;
-height: 800px;
+background-color: #CC9900;
+height: 1500px;
 float: right;
 width: 90%;
 }
@@ -20,14 +20,15 @@ width: 90%;
 /*text in the content window*/
 #mainText
 {
-
+font-family:Georgia;
+font-weight:1200;
 }
 
 /*site map window*/
 #sideBar
 {
-background-color:#0000FF;
-height: 800px;
+background-color: #FFCC66;
+height: 1500px;
 float: left;
 width: 10%;
 }
@@ -35,14 +36,15 @@ width: 10%;
 /*site map text*/
 #sideText
 {
-
+font-family:Georgia;
+font-weight:450;
 }
 
 /*footer & social media hub division*/
 #footer
 {
-background-color:#00FF00;
-height: 75px;
+background-color: #996600;
+height: 150px;
 float: left;
 width: 100%;
 clear:both;
@@ -51,5 +53,6 @@ clear:both;
 /*footer & social media text*/
 #footerText
 {
-
+font-family:Georgia;
+font-weight:600;
 }
