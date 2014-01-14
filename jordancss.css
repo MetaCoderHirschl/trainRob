@@ -1,0 +1,55 @@
+/* this is css modifies addresses the jordantemplate landing page */
+
+/*big division in which the other three divisions are contained*/
+#viewPort
+{
+height:800px;
+float:none;
+width:100%;
+}
+
+/*content window division*/
+#main
+{
+background-color:#FF0000;
+height: 800px;
+float: right;
+width: 90%;
+}
+
+/*text in the content window*/
+#mainText
+{
+
+}
+
+/*site map window*/
+#sideBar
+{
+background-color:#0000FF;
+height: 800px;
+float: left;
+width: 10%;
+}
+
+/*site map text*/
+#sideText
+{
+
+}
+
+/*footer & social media hub division*/
+#footer
+{
+background-color:#00FF00;
+height: 75px;
+float: left;
+width: 100%;
+clear:both;
+}
+
+/*footer & social media text*/
+#footerText
+{
+
+}
