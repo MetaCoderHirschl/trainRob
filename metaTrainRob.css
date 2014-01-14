@@ -33,30 +33,28 @@
 	position: relative;
 	clear: both;
 	margin: 0px;
+	padding-bottom: 40px;
 }
 #sMButtons1
 {
 	height: 80px;
-	width: 100%;
-	position: float;
-	clear: both;
-	margin: 0px;
+	width: 33%;
+	position: absolute; 
+	margin-left: 0px;
 }
 #sMButtons2
 {
 	height: 80px;
-	width: 100%;
-	position: float;
-	clear: both;
-	margin: 0px;
+	width: 33%;
+	position: absolute; 
+	margin-left: 500px;
 }
 #sMButtons3
 {
 	height: 80px;
-	width: 100%;
-	position: float;
-	clear: both;
-	margin: 0px;
+	width: 33%;
+	position: absolute; 
+	margin-left: 1000px;
 }
 .contentStuff
 {
