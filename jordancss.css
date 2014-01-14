@@ -56,3 +56,22 @@ clear:both;
 font-family:Georgia;
 font-weight:600;
 }
+/* the buttons that appear on the link tab*/
+.mapButton {
+	background-color:#f6b33d;
+	border-top-left-radius:15px;
+	border-bottom-left-radius:15px;
+	text-indent:0;
+	border:1px solid #eda933;
+	display:inline-block;
+	color:#ffffff;
+	font-family:Georgia;
+	font-size:15px;
+	font-weight:normal;
+	font-style:normal;
+	height:50px;
+	line-height:50px;
+	width:100px;
+	text-decoration:none;
+	text-align:center;
+}
