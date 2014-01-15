@@ -26,3 +26,11 @@ Aspect ratio on resize.  (Just use fixed values for now).
 As the page resizes no matter what platform the site is viewed on a phone horizontally the content should be consistent.  Test the site on the mobile platform.  Usability on the phone.  Text larger.  Use the whole screen.
 
 CSS embed a cool font, like the wanted poster font.
+
+Plot page: too much scrolling.  Don't want to scroll down.
+
+Next update from client:
+
+Make the plot page clickable.  Thumbnail images which expand on clicking.  A storyboard.  
+
+Short text which, when clicked, an image appears and a fulsome description of the picture appears.  Boxes appear with full size image and associated text.  User not overwhelmed and presented with only what he wants to see.
