@@ -21,7 +21,7 @@ Social Page
 
 Post Client Meeting objectives.
 
-Aspect ratio on resize.
+Aspect ratio on resize.  (Just use fixed values for now).
 
 As the page resizes no matter what platform the site is viewed on a phone horizontally the content should be consistent.  Test the site on the mobile platform.  Usability on the phone.  Text larger.  Use the whole screen.
 
