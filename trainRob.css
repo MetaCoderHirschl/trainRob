@@ -2,31 +2,40 @@
 
 #viewPort
 {
-background-color: #5E5E5E;
+background-color: #CC9900;
 padding: 3px;
-}
-
-div div
-{
-background-color: #BABABA;
 }
 
 #map
 {
 float: left;
-width: 15%;
-height: 2500px;
+width: 8%;
+height: 600px;
 margin-top: 7px;
 margin-bottom: 7px;
+background-color:#FFCC66;
+}
+
+#mapButton
+{
+width:7%;
+width: 80px;
+border: 1px solid black;
+border-radius: 8px;
+height: 25px;
+float: right;
+padding:5px;
+margin-bottom:5px;
 }
 
 #main
 {
 float: right;
-height: 2500px;
-width: 82.5%;
+height: 600px;
+width: 92%;
 margin-top: 7px;
 margin-bottom: 7px;
+overflow: scroll;
 }
 
 #footer
@@ -37,6 +46,7 @@ height: 70px;
 clear: both;
 text-align: center;
 text-decoration: none;
+background-color:#996600;
 }
 
 
@@ -49,12 +59,13 @@ font-family: fantasy;
 .linkFoot
 {
 width: 19.4%;
-border: 1px solid #5E5E5E;
+border: 1px solid #000000;
 display: inline-block;
+margin-top: 8px;
+border-radius:5px;
 }
 
 .social
 {
 text-align: center;
-color: #5E5E5E;
 }
