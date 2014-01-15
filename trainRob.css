@@ -95,6 +95,14 @@ font-family:western;
 font-size:120%;
 }
 
+#landingImg
+
+{
+display:block;
+margin-left:auto;
+margin-right:auto;
+
+}
 .social
 {
 text-align: center;
