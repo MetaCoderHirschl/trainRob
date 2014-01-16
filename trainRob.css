@@ -86,7 +86,7 @@ height: 600px;
 width: 88.7%;
 margin-top: 7px;
 margin-bottom: 7px;
-overflow: scroll;
+overflow: auto;
 background-color: #FFCC66;
 }
 
