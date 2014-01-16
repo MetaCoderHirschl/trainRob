@@ -1,0 +1,62 @@
+div.targetBox
+{
+	display:none;
+}
+
+div.targetBox:target
+{
+	display:table;
+}
+
+div.targetBoxfigure
+{
+	display: table-cell;
+	vertical-align:middle;
+}
+
+div.targetBox figure figcaption
+{
+	display: block;
+	margin: auto;
+	padding: 0px;
+	height:100%;
+	width:100%;
+	position: relative;
+	overflow:scroll;
+	border: 1px black solid;
+	border-radius: 5px;
+	text-align: justify;
+}
+
+.closeMsg
+{
+	display: block;
+	margin: auto;
+	height: 0;
+	overflow: visible;
+	text-align: right;
+	z-index: 5001;
+	cursor:default;
+}
+
+.closeMsg:after
+{
+	content:"\00D7";
+	display: inline-block;
+	position: relative;
+	right: -20px;
+	z-index: 5002;
+	color: white;
+	height: 20px;
+	width: 20px;
+	border: 1px white solid;
+	line-height: 18px;
+	text-align: center;
+	margin: 0px;
+	background-color: black;
+	font-weight: bold;
+	cursor: pointer;
+	
+}
+	
+}
