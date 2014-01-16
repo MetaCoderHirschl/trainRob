@@ -1,5 +1,27 @@
 /* this is trainRob.css which modifies all pages for the "the great train robbery" reboot */
 
+#header
+{
+z-index: 1;
+margin-top: -20px;
+height: 70px;
+text-align: center;
+text-decoration: none;
+background-color: #996600;
+text-align: center;
+padding-bottom: 19px;
+}
+
+div div
+{
+border-radius: 5px;
+}
+
+h1
+{
+padding: 28px;
+}
+
 #viewPort
 {
 background-color: #CC9900;
@@ -11,28 +33,29 @@ padding: 3px;
 	font-family:western;
 	src : url("fonts/western.woff") format('woff');
 }
+
 #map
 {
 float: left;
-width: 8%;
+width: 10%;
 height: 600px;
 margin-top: 7px;
 margin-bottom: 7px;
-background-color:#FFCC66;
+background-color: #FFCC66;
 }
 
 #mapButton
 {
-width:7%;
-width: 80px;
+width: 89%;
 border: 1px solid black;
 border-radius: 8px;
-height: 25px;
+height: auto;
 float: right;
-padding:5px;
-margin-bottom:5px;
-font-family:western;
-font-size:150%;
+padding: 5px;
+margin-top: 20px;
+margin-bottom: 5px;
+font-family: western;
+font-size: 150%;
 }
 
 a:link 
@@ -60,10 +83,11 @@ text-decoration:none;
 {
 float: right;
 height: 600px;
-width: 92%;
+width: 88.7%;
 margin-top: 7px;
 margin-bottom: 7px;
 overflow: scroll;
+background-color: #FFCC66;
 }
 
 #footer
@@ -74,7 +98,7 @@ height: 70px;
 clear: both;
 text-align: center;
 text-decoration: none;
-background-color:#996600;
+background-color: #996600;
 }
 
 
@@ -95,15 +119,12 @@ font-family:western;
 font-size:120%;
 }
 
-#landingImg
-
-{
-display:block;
-margin-left:auto;
-margin-right:auto;
-
-}
 .social
 {
 text-align: center;
+}
+
+.area
+{
+border-radius: 8px;
 }
