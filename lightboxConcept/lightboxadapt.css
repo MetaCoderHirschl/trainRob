@@ -26,6 +26,7 @@ div.targetBox figure figcaption
 	border: 1px black solid;
 	border-radius: 5px;
 	text-align: justify;
+	overflow: auto;
 }
 
 .closeMsg
@@ -57,4 +58,9 @@ div.targetBox figure figcaption
 	font-weight: bold;
 	cursor: pointer;
 	
+<<<<<<< HEAD
 }
+=======
+}
+	
+>>>>>>> new bios
